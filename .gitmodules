@@ -1,0 +1,12 @@
+[submodule "graphics"]
+	path = graphics
+	url = git@github.com:AshfordIlya/graphics.git
+[submodule "wayland"]
+	path = wayland
+	url = git@github.com:AshfordIlya/wayland.git
+[submodule "shared"]
+	path = shared
+	url = git@github.com:AshfordIlya/shared.git
+[submodule "alchemy"]
+	path = alchemy
+	url = git@github.com:AshfordIlya/alchemy.git

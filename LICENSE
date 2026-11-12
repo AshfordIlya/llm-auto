@@ -1,0 +1,48 @@
+Copyright (c) 2026 Ilya Ashford. All rights reserved.
+
+This software is an experimental concept and an educational work: a study
+in how far a desktop stack can be rebuilt for performance and quality (a
+Vulkan renderer, a Wayland client library, and software built on them,
+such as non-commercial reimplementations of existing desktop clients). It
+is shared for learning, research and non-commercial use, and will never be
+offered for commercial use.
+
+Permission is granted to any person obtaining a copy of this software and
+associated files (the "Software") to use, study, copy, modify and share it,
+and to build other software on it, for personal, educational, research,
+experimental or other non-commercial purposes only, subject to the
+following conditions:
+
+1. Never commercial. The Software, and any work derived from it or built on
+   it, may not be sold, licensed for a fee, offered as or within a paid
+   product or service, supported by advertising, or otherwise used for
+   commercial advantage or monetary compensation. No commercial license is
+   or will be offered, and none may be implied from this one.
+
+2. Derived works keep these terms. Any work derived from the Software, in
+   whole or in part, may be shared only under this license, with this
+   notice, so that it stays non-commercial and free of AI use.
+
+3. No AI / machine learning use. The Software, in whole or in part, may not
+   be used to train, fine-tune, evaluate or benchmark any machine learning
+   model or artificial intelligence system, nor be included in any dataset
+   intended for such purposes, nor be scraped or collected for them.
+
+4. Third parties. This license covers only the Software. It grants no
+   rights in any other party's software, services, interfaces, content or
+   trademarks, including those of services the Software may interoperate
+   with or reimplement a client for. Anyone using the Software with a third
+   party's service is responsible for doing so lawfully; any terms that
+   service sets are between the user and that service. Names of third-party
+   products are used only to describe interoperability and imply no
+   affiliation or endorsement.
+
+5. This notice must be kept in all copies or substantial portions of the
+   Software.
+
+THE SOFTWARE IS EXPERIMENTAL AND PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM THE USE OF OR OTHER DEALINGS IN THE
+SOFTWARE.

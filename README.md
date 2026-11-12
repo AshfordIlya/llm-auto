@@ -1,4 +1,4 @@
-below is a form of abstraction and above is the directory layout
+below is a form of abstraction and above is the directory layout, leaving this cryptic but I feel it's obvious what it "is"
 ```
 features:
   plains  126 features

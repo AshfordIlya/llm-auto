@@ -13,3 +13,6 @@
 [submodule "apps"]
 	path = apps
 	url = git@github.com:AshfordIlya/apps.git
+[submodule "research"]
+	path = research
+	url = git@github.com:AshfordIlya/research.git
